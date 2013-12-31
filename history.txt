@@ -1,0 +1,16 @@
+1.0
+~~~
+Original release
+
+1.1
+~~~
+- Both CHANGE and STRIP now accepts the directory as a parameter
+- STRIP will now identify messages already stripped
+- STRIP now supports BinHex and enhanced MIME Base64 stripping (not faster
+  though)
+- Sample REXX Exit script for STRIP
+
+1.2 - 18 november 1998
+~~~
+- Rewritten everything in C and now works fine
+- Now distributed with a Win32 EXE for PMMail 98
